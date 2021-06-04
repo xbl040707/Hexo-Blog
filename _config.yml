@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xli
-subtitle: 'hello'
-description: '.'
-keywords: xli-blog
-author: xli
+title: 秘密基地
+subtitle: 'Welcome'
+description: 'xbl-blog.tk'
+keywords: xbi-blog xbl-blog.tk www.xbl-blog.tk 徐先生的秘密基地
+author: Xu
 language: zh-CN
 timezone: ''
 
@@ -31,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :title-:year-:month-:day.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
