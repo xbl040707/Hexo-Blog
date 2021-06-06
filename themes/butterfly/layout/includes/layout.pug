@@ -12,8 +12,6 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
 
     if theme.background
       #web_bg
-      
-    !=partial('includes/sliderbar', {}, {cache: true})
 
     if page.type !== '404'
       #body-wrap(class=pageType)
