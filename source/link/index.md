@@ -14,8 +14,8 @@ type: "link"
 **简要概述：**
 
 ```yaml
-- name: Tianli
+- name: 西伯利呀
   link: https://www.xbl-blog.tk/
   avatar: https://cdn.jsdelivr.net/gh/xbl040707/TCCK@master/picture/touxiang.jpg
-  descr: 因为热爱，所以喜欢
+  descr: 因为喜欢，所以热爱
 ```
