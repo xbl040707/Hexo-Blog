@@ -2,6 +2,7 @@
 title: 友情链接
 date: 2021-06-03 22:08:36
 type: "link"
+top_img: https://cdn.jsdelivr.net/gh/xbl040707/TCCK@master/picture/youqinglianjietoutu.jpg
 ---
 
 
